@@ -10,7 +10,8 @@
 
 ## Result of TNT
 
-- f-socre 
+- f-socre
+
 | Method           | Barn   | Caterpillar   | Courthouse| Ignatius   | Meetingroom   | Truck   | Mean   | Time   | 
 |------------------|--------|---------------|-----------|------------|---------------|---------|--------|--------|
 | Paper(3090)      | 0.41   | 0.23          | 0.16      | 0.51       | 0.17          | 0.45    | 0.32   | 15.5 m |
