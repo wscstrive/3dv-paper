@@ -11,6 +11,7 @@
 ## Result of TNT
 
 - f-socre
+  _Reproduce_1 is get tnt dataset from [convert_tnt_1500.py](../../Preliminaries/preprocess/convert_tnt_1500.py)_
 
 | Method             | Barn   | Caterpillar   | Courthouse| Ignatius   | Meetingroom   | Truck   | Mean   | Time(min)   | 
 |--------------------|--------|---------------|-----------|------------|---------------|---------|--------|-------------|
