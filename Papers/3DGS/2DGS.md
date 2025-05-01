@@ -11,12 +11,12 @@
 ## Result of TNT
 
 - f-socre
-  ```
-  Reproduce_1 is get tnt dataset from [convert_tnt_1500.py](../../Preliminaries/preprocess/convert_tnt_1500.py) that came from neuralangelo
+  
+  _Reproduce_1 is get tnt dataset from [convert_tnt_1500.py](../../Preliminaries/preprocess/convert_tnt_1500.py) that came from neuralangelo_
 
-  Reproduce_2 is get tnt dataset from [convert_tnt.py](../../Preliminaries/preprocess/convert_tnt.py) that came from pgsr
+  _Reproduce_2 is get tnt dataset from [convert_tnt.py](../../Preliminaries/preprocess/convert_tnt.py) that came from pgsr_
 
-  ```
+  
   
 
 | Method             | Barn   | Caterpillar   | Courthouse| Ignatius   | Meetingroom   | Truck   | Mean   | Time(min)   | 
