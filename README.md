@@ -10,7 +10,7 @@ Here is my list of reading along with their links and some of my thoughts.
   - [Neural Radiation Field (NeRF)](Papers/Neural_Radiance_Field.md)
   <details>
   <summary>3D Gaussian Splatting (3D GS)</summary>
-  - [Neural Radiation Field (NeRF)](Papers/Neural_Radiance_Field.md)
+  - [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](Papers/3DGS/2DGS.md)
 
   </details>
 
