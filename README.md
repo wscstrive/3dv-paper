@@ -20,11 +20,11 @@ Here is my list of reading along with their links and some of my thoughts.
   <details>
   <summary>3D Gaussian Splatting (3D GS)</summary>
     
-  - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](Papers/3DGS/3DGS.md) - [SIGGRAPH 2023] 
-  - [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](Papers/3DGS/2DGS.md) - [SIGGRAPH 2024]  
-  - [Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes](Papers/3DGS/GOF) - [SIGGRAPH Asia 2024]  
-  - [RaDe-GS: Rasterizing Depth in Gaussian Splatting](Papers/3DGS/RadeGS) - [ArXiv 2024]   
-  - [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction](Papers/3DGS/PGSR) - [TVCG 2024]  
+  - [SIGGRAPH 2023] - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](Papers/3DGS/3DGS.md)  
+  - [SIGGRAPH 2024] - [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](Papers/3DGS/2DGS.md)  
+  - [SIGGRAPH Asia 2024] - [Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes](Papers/3DGS/GOF)  
+  - [ArXiv 2024] - [RaDe-GS: Rasterizing Depth in Gaussian Splatting](Papers/3DGS/RadeGS)     
+  - [TVCG 2024] - [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction](Papers/3DGS/PGSR)    
   </details>
 
 - Image Generation
