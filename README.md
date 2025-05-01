@@ -11,7 +11,7 @@ Here is my list of reading along with their links and some of my thoughts.
   <details>
   <summary>3D Gaussian Splatting (3D GS)</summary>
     
-  [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](Papers/3DGS/2DGS.md)
+  - [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](Papers/3DGS/2DGS.md)
 
   </details>
 
