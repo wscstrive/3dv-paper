@@ -4,22 +4,10 @@ Here is my list of reading along with their links and some of my thoughts.
 > Inspired by [aweosme-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) and [Paper-List](https://github.com/YanjieZe/Paper-List?tab=readme-ov-file) and [Awesome-Inverse-Rendering
 ](https://github.com/ingra14m/Awesome-Inverse-Rendering?tab=readme-ov-file#nerf-based-inverse-rendering)
 
-## Papers
-
-- ### 3D Vision
-
-  <details>
-  <summary>Multi-View Stereo (MVS)</summary>
-  </details>
+## Table of Contents
 
 
-  <details>
-  <summary>Neural Radiation Field (NeRF)</summary>
-  </details>
 
-
-  <details>
-  <summary>3D Gaussian Splatting (3D GS)</summary>
     
   - [SIGGRAPH 2023] - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](Papers/3DGS/3DGS.md)  
   - [SIGGRAPH 2024] - [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](Papers/3DGS/2DGS.md)  
