@@ -12,9 +12,9 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - [NeuS-based 3D Reconstruction](#NeuS-based 3D Reconstruction)
 - [3DGS-based 3D Reconstruction](#3DGS-based 3D Reconstruction)
 
-
+## Papers
 <details>
-<summary><b> ## MVS-based 3D Reconstruction </b></summary>
+<summary><b>MVS-based 3D Reconstruction </b></summary>
     
 - Before Papers
     - [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
