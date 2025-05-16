@@ -14,12 +14,13 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## MVS-based 3D Reconstruction
 
-Before Papers: [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
+- Before Papers
+    - [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 
 - ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
+    - authors
 <details>
 <summary><b>Network</b></summary>
-![image](https://github.com/user-attachments/assets/38738635-10a2-4c7e-acf4-129ad323185f)
 </details>
 
 <details open>
