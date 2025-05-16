@@ -12,15 +12,16 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - [NeuS-based 3D Reconstruction](#NeuS-based 3D Reconstruction)
 - [3DGS-based 3D Reconstruction](#3DGS-based 3D Reconstruction)
 
-## MVS-based 3D Reconstruction
 
+<details>
+<summary><b> ## MVS-based 3D Reconstruction </b></summary>
+    
 - Before Papers
     - [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 
-- ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
-    - authors
-<details>
-<summary><b>Network</b></summary>
+- [ICME 2025] ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
+    - [paper]() [code]()  
+
 </details>
 
 <details open>
