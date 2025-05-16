@@ -6,6 +6,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 
 ## Table of Contents
+- [Prelinminary](#preliminary)
 - [MVS-based 3D Reconstruction](#mvs-based-3d-reconstruction)
 - [NeRF-based 3D Reconstruction](#nerf-based-3d-reconstruction)
 - [NeuS-based 3D Reconstruction](#neus-based-3d-reconstruction)
@@ -14,6 +15,9 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## Preliminary
 
+#### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
+- Pulication: ECCV 2018
+- [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
 - MVSNet: Depth Inference for Unstructured Multi-view Stereo  
   [ECCV 2018] | [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
 
@@ -29,11 +33,9 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 ## MVS-based 3D Reconstruction
 > Since MVS has been studied for many years, we continue to update papers based on previous repo.
 <details>
-<summary><b>Papers</b></summary>
+<summary><b></b></summary>
 
-#### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
-- Pulication: ECCV 2018
-- [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
+
 #### Before Papers  
 - [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 
