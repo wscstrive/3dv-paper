@@ -15,9 +15,8 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 ## Preliminary
 
 <details>
-<summary><b></b></summary>
-
-
+<summary><b>Papers</b></summary>
+  
 #### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - **Publication:** ECCV 2018 
 - **Link:**[Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
@@ -40,8 +39,8 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 > Since MVS has been studied for many years, we continue to update papers based on previous repo.
 
 <details>
-<summary><b></b></summary>
-
+<summary><b>Papers</b></summary>
+  
 #### Before Papers  
 - **Link:** [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 
@@ -51,12 +50,11 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 </details>
 
-
 ## NeRF-based 3D Reconstruction
 
 <details>
 <summary><b>Papers</b></summary>
-
+  
 #### ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
 - **Publication:** ICME 2025
 - **Link:** [paper](https://arxiv.org/pdf/2503.21525) | [code](https://github.com/YuhsiHu/ICG-MVSNet)
