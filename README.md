@@ -83,11 +83,11 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - [Paper](https://arxiv.org/pdf/2406.01467) | [Code](https://github.com/BaowenZ/RaDe-GS) | [Project Page](https://baowenz.github.io/radegs/)
 
 #### PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction 
-- Info: TVCG 2024 | zju3dv
-- [Paper]([https://arxiv.org/pdf/2503.21525](https://arxiv.org/pdf/2403.17888))] | [[Code](https://github.com/hbb1/2d-gaussian-splatting))] | [[Project Page]()]
+- Info: TVCG 2024 - zju3dv
+- [Paper](https://arxiv.org/pdf/2406.06521) | [Code](https://github.com/zju3dv/PGSR) | [Project Page](https://zju3dv.github.io/pgsr/)
 
 
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
 - Pulication: SIGGRAPH 2024
-- [Paper]([https://arxiv.org/pdf/2503.21525](https://arxiv.org/pdf/2403.17888))] | [[Code](https://github.com/hbb1/2d-gaussian-splatting))] | [[Project Page](https://niujinshuchong.github.io/gaussian-opacity-fields/)] 
+- [Paper]([https://arxiv.org/pdf/2503.21525](https://arxiv.org/pdf/2403.17888) | [[Code](https://github.com/hbb1/2d-gaussian-splatting))] | [[Project Page](https://niujinshuchong.github.io/gaussian-opacity-fields/)] 
 </details>
