@@ -17,7 +17,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 #### MVSNet: Depth Inference for Unstructured Multi-view Stereo
 - Publication: ECCV 2018
-- [[Paper]]() [Code(Tensorflow)]() [Code(Pytorch)]()
+- [ [Paper] ]() [Code(Tensorflow)]() [Code(Pytorch)]()
 
 #### NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 - Publication: ECCV 2020 (Oral)
