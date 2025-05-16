@@ -14,6 +14,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## Preliminary
 
+<details>
 <summary><b></b></summary>
 
 
@@ -37,6 +38,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## MVS-based 3D Reconstruction
 > Since MVS has been studied for many years, we continue to update papers based on previous repo.
+
 <details>
 <summary><b></b></summary>
 
@@ -52,6 +54,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## NeRF-based 3D Reconstruction
 
+<details>
 <summary><b>Papers</b></summary>
 
 #### ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
@@ -62,12 +65,14 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## NeuS-based 3D Reconstruction
 
+<details>
 <summary><b>Papers</b></summary>
 
 </details>
 
 ## 3DGS-based 3D Reconstruction
 
+<details>
 <summary><b>Papers</b></summary>
 
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
