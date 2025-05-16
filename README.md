@@ -7,7 +7,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## Table of Contents
 - [MVS-based 3D Reconstruction](#papers)
-- [MVS-based 3D Reconstruction](##mvs-based-3d-reconstruction)
+- [MVS-based 3D Reconstruction](## mvs-based-3d-reconstruction)
 - [NeRF-based 3D Reconstruction](#merf-based-3d-reconstruction)
 - [NeuS-based 3D Reconstruction](#neus-based-3d-reconstruction)
 - [3DGS-based 3D Reconstruction](#3dgs-based-3d-reconstruction)
@@ -24,33 +24,4 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 </details>
 
-<details open>
-<summary>Faster Inference</summary>
 
-
-</details>
-
-## NeRF-based 3D Reconstruction
-
-## NeuS-based 3D Reconstruction
-
-## 3DGS-based 3D Reconstruction
-
-
-
-
-    
-  - [SIGGRAPH 2023] - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](Papers/3DGS/3DGS.md)  
-  - [SIGGRAPH 2024] - [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](Papers/3DGS/2DGS.md)  
-  - [SIGGRAPH Asia 2024] - [Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes](Papers/3DGS/GOF)  
-  - [ArXiv 2024] - [RaDe-GS: Rasterizing Depth in Gaussian Splatting](Papers/3DGS/RadeGS)     
-  - [TVCG 2024] - [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction](Papers/3DGS/PGSR)    
-  </details>
-
-- Image Generation
-  - [Image Colorization]()
-
-## Books
-- Linear Algebra
-  
-## Interesting Work
