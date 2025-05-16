@@ -1,4 +1,4 @@
-# A reading list of Sicheng Wang
+# Awesome 3D Reconstruction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repo mainly collects papers that take 3D reconstruction as their primary research objective. Works that merely possess potential reconstruction capabilities but do not focus on it are not included.
 
