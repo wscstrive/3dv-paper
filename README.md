@@ -19,11 +19,11 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
   
 #### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - **Publication:** ECCV 2018 
-- **Link:**[Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
+- **Link:** [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
   
 #### NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 - **Publication:** ECCV 2020 (Oral)
-- **Link:** [Paper]([https://arxiv.org/pdf/1804.02505](https://arxiv.org/pdf/2003.08934) | [Project Page](https://www.matthewtancik.com/nerf) | [Code](https://github.com/bmild/nerf)
+- **Link:** [Paper](https://arxiv.org/pdf/2003.08934) | [Project Page](https://www.matthewtancik.com/nerf) | [Code](https://github.com/bmild/nerf)
 
 #### NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
 - **Publication:** NeurIPS 2021 (Spotlight)
@@ -47,7 +47,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 #### ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
 - **Publication:** ICME 2025
-- **Link:** [Paper](https://arxiv.org/pdf/2503.21525) | [code](https://github.com/YuhsiHu/ICG-MVSNet)
+- **Link:** [Paper](https://arxiv.org/pdf/2503.21525) | [Code](https://github.com/YuhsiHu/ICG-MVSNet)
 
 </details>
 
@@ -58,7 +58,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
   
 #### ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
 - **Publication:** ICME 2025
-- **Link:** [paper](https://arxiv.org/pdf/2503.21525) | [code](https://github.com/YuhsiHu/ICG-MVSNet)
+- **Link:** [Paper](https://arxiv.org/pdf/2503.21525) | [Code](https://github.com/YuhsiHu/ICG-MVSNet)
 
 </details>
 
