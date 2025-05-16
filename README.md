@@ -6,11 +6,11 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 ](https://github.com/ingra14m/Awesome-Inverse-Rendering?tab=readme-ov-file#nerf-based-inverse-rendering)
 
 ## Table of Contents
-
-- [MVS-based 3D Reconstruction](#mvs-based 3d reconstruction)
-- [NeRF-based 3D Reconstruction](#NeRF-based 3D Reconstruction)
-- [NeuS-based 3D Reconstruction](#NeuS-based 3D Reconstruction)
-- [3DGS-based 3D Reconstruction](#3DGS-based 3D Reconstruction)
+- [MVS-based 3D Reconstruction](#papers)
+- [MVS-based 3D Reconstruction](#mvs)
+- [NeRF-based 3D Reconstruction](#NeRF)
+- [NeuS-based 3D Reconstruction](#NeuS-based)
+- [3DGS-based 3D Reconstruction](#3DGS-based)
 
 ## Papers
 <details>
