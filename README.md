@@ -12,10 +12,10 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - [NeuS-based 3D Reconstruction](#neus-based-3d-reconstruction)
 - [3DGS-based 3D Reconstruction](#3dgs-based-3d-reconstruction)
 
-
 ## Preliminary
 
 <summary><b></b></summary>
+
 
 #### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - Pulication: ECCV 2018
@@ -32,13 +32,13 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 #### 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - Pulication: SIGGRAPH 2023
 - [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf)] - [[Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)[ - [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
+
 </details>
 
 ## MVS-based 3D Reconstruction
 > Since MVS has been studied for many years, we continue to update papers based on previous repo.
 <details>
 <summary><b></b></summary>
-
 
 #### Before Papers  
 - [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
@@ -54,9 +54,6 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 <summary><b>Papers</b></summary>
 
-#### Before Papers  
-- [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
-
 #### ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
 - Pulication: ICME 2025
 - [paper](https://arxiv.org/pdf/2503.21525) [code](https://github.com/YuhsiHu/ICG-MVSNet)
@@ -67,18 +64,14 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 <summary><b>Papers</b></summary>
 
-#### ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
-- Pulication: ICME 2025
-- [paper](https://arxiv.org/pdf/2503.21525) [code](https://github.com/YuhsiHu/ICG-MVSNet)
-
 </details>
 
 ## 3DGS-based 3D Reconstruction
 
 <summary><b>Papers</b></summary>
 
-#### ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
-- Pulication: ICME 2025
-- [paper](https://arxiv.org/pdf/2503.21525) [code](https://github.com/YuhsiHu/ICG-MVSNet)
+#### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
+- Pulication: SIGGRAPH 2024
+- [[paper]([https://arxiv.org/pdf/2503.21525](https://arxiv.org/pdf/2403.17888))] · [[code](https://github.com/hbb1/2d-gaussian-splatting))] · [[Project Page](https://niujinshuchong.github.io/gaussian-opacity-fields/)] 
 
 </details>
