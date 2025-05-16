@@ -7,17 +7,20 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## Table of Contents
 
-- [Papers](#papers)
-    - [MVS-based 3D Reconstruction](#MVS-based 3D Reconstruction)
-    - [NeRF-based 3D Reconstruction](#NeRF-based 3D Reconstruction)
-    - [NeuS-based 3D Reconstruction](#NeuS-based 3D Reconstruction)
-    - [3DGS-based 3D Reconstruction](#3DGS-based 3D Reconstruction)
+- [MVS-based 3D Reconstruction](#MVS-based 3D Reconstruction)
+- [NeRF-based 3D Reconstruction](#NeRF-based 3D Reconstruction)
+- [NeuS-based 3D Reconstruction](#NeuS-based 3D Reconstruction)
+- [3DGS-based 3D Reconstruction](#3DGS-based 3D Reconstruction)
 
-## Papers
+## MVS-based 3D Reconstruction
 
-### MVS-based 3D Reconstruction
+Before Papers: [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 
-Before Papers: [Awesome-MVS]()
+- ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
+<details>
+<summary><b>Network</b></summary>
+![image](https://github.com/user-attachments/assets/38738635-10a2-4c7e-acf4-129ad323185f)
+</details>
 
 <details open>
 <summary>Faster Inference</summary>
