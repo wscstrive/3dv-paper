@@ -17,9 +17,9 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - Before Papers  
     - [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 
-- ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo  
-    - [paper](https://arxiv.org/pdf/2503.21525) [code](https://github.com/YuhsiHu/ICG-MVSNet)
+- ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo
     - Pulication: ICME 2025
+    - [paper](https://arxiv.org/pdf/2503.21525) [code](https://github.com/YuhsiHu/ICG-MVSNet)
 
 </details>
 
