@@ -14,12 +14,15 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 
 ## Preliminary
+<summary><b></b></summary>
 
 #### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - Pulication: ECCV 2018
 - [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
-- MVSNet: Depth Inference for Unstructured Multi-view Stereo  
-  [ECCV 2018] | [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
+- 
+- MVSNet: Depth Inference for Unstructured Multi-view Stereo
+- Pulication: ECCV 2020
+- [[Paper](https://arxiv.org/pdf/1804.02505)] | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
 
 - NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis  
   [ECCV 2020 (Oral)] | [Paper](https://arxiv.org/pdf/2003.08934) | [Project Page](https://www.matthewtancik.com/nerf) | [Code](https://github.com/bmild/nerf)
@@ -29,6 +32,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 - 3D Gaussian Splatting for Real-Time Radiance Field Rendering  
   [Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) - [Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) - [Code](https://github.com/graphdeco-inria/gaussian-splatting) - [SIGGRAPH 2023]
+</details>
 
 ## MVS-based 3D Reconstruction
 > Since MVS has been studied for many years, we continue to update papers based on previous repo.
