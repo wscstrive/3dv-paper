@@ -36,11 +36,12 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 </details>
 
 ## MVS-based 3D Reconstruction
-> Since MVS has been studied for many years, we continue to update papers based on previous repo.
 
 <details>
 <summary><b>Papers</b></summary>
   
+> Since MVS has been studied for many years, we continue to update papers based on previous repo.
+
 #### Before Papers  
 - **Link:** [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 
