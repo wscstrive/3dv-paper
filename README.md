@@ -75,7 +75,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
 - **Publication:** SIGGRAPH 2024
-- **Link:** [Paper]([https://arxiv.org/pdf/2503.21525](https://arxiv.org/pdf/2403.17888))] | [[Code](https://github.com/hbb1/2d-gaussian-splatting))] | [[Project Page](https://surfsplatting.github.io/)] 
+- **Link:** [Paper](https://arxiv.org/pdf/2403.17888) | [Code](https://github.com/hbb1/2d-gaussian-splatting) | [Project Page](https://surfsplatting.github.io/)
 
 #### Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes  
 - **Publication:** SIGGRAPH Asia 2024
