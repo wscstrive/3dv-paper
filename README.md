@@ -86,7 +86,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - **Link:** [Paper](https://arxiv.org/pdf/2406.01467) | [Code](https://github.com/BaowenZ/RaDe-GS) | [Project Page](https://baowenz.github.io/radegs/)
 
 #### PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction 
-- **Publication:** TVCG 2024 - zju3dv
+- **Publication:** TVCG 2024
 - **Link:** [Paper](https://arxiv.org/pdf/2406.06521) | [Code](https://github.com/zju3dv/PGSR) | [Project Page](https://zju3dv.github.io/pgsr/)
 
 
