@@ -71,8 +71,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## 3DGS-based 3D Reconstruction
 
-<details>
-<summary><b>Papers</b></summary>
+
 
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
 - **Publication:** SIGGRAPH 2024
@@ -90,4 +89,4 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - **Publication:** TVCG 2024 - zju3dv
 - **Link:** [Paper](https://arxiv.org/pdf/2406.06521) | [Code](https://github.com/zju3dv/PGSR) | [Project Page](https://zju3dv.github.io/pgsr/)
 
-</details>
+
