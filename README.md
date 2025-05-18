@@ -20,7 +20,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - **Link:** [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
 
 <details>
-<summary><b>:book: Papers</b></summary>
+<summary><b>:book: Follow-up Papers</b></summary>
   
 > Since MVS has been studied for many years, we continue to update papers based on previous repo.
 
@@ -40,7 +40,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - **Link:** [Paper](https://arxiv.org/pdf/2003.08934) | [Project Page](https://www.matthewtancik.com/nerf) | [Code](https://github.com/bmild/nerf)
 
 <details>
-<summary><b>:book: Papers</b></summary>
+<summary><b>:book: Follow-up Papers</b></summary>
   
 
 
@@ -53,7 +53,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - **Link:** [Paper](https://arxiv.org/pdf/2106.10689) | [Project Page](https://lingjie0206.github.io/papers/NeuS/) | [Code](https://github.com/Totoro97/NeuS)
 
 <details>
-<summary><b>:book: Papers</b></summary>
+<summary><b>:book: Follow-up Papers</b></summary>
 
 </details>
 
@@ -65,7 +65,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 
 <details>
-<summary><b>:book: Papers</b></summary>
+<summary><b>:book: Follow-up Papers</b></summary>
   
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
 - **Publication:** SIGGRAPH 2024
