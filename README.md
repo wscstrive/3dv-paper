@@ -64,6 +64,9 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - **Link:** [Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [Code](https://github.com/graphdeco-inria/gaussian-splatting)
 
 
+<details>
+<summary><b>Papers</b></summary>
+  
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
 - **Publication:** SIGGRAPH 2024
 - **Link:** [Paper](https://arxiv.org/pdf/2403.17888) | [Code](https://github.com/hbb1/2d-gaussian-splatting) | [Project Page](https://surfsplatting.github.io/)
@@ -80,4 +83,4 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - **Publication:** TVCG 2024
 - **Link:** [Paper](https://arxiv.org/pdf/2406.06521) | [Code](https://github.com/zju3dv/PGSR) | [Project Page](https://zju3dv.github.io/pgsr/)
 
-
+<details>
