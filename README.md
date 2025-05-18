@@ -12,24 +12,6 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 - [NeuS-based 3D Reconstruction](#neus-based-3d-reconstruction)
 - [3DGS-based 3D Reconstruction](#3dgs-based-3d-reconstruction)
 
-## Preliminary
-
-<details>
-<summary><b>Papers</b></summary>
-  
-
-  
-
-
-#### NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
-- **Publication:** NeurIPS 2021 (Spotlight)
-- **Link:** [Paper](https://arxiv.org/pdf/2106.10689) | [Project Page](https://lingjie0206.github.io/papers/NeuS/) | [Code](https://github.com/Totoro97/NeuS)
-
-#### 3D Gaussian Splatting for Real-Time Radiance Field Rendering
-- **Publication:** SIGGRAPH 2023
-- **Link:** [Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [Code](https://github.com/graphdeco-inria/gaussian-splatting)
-
-</details>
 
 ## MVS-based 3D Reconstruction
 
@@ -66,6 +48,10 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## NeuS-based 3D Reconstruction
 
+#### NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
+- **Publication:** NeurIPS 2021 (Spotlight)
+- **Link:** [Paper](https://arxiv.org/pdf/2106.10689) | [Project Page](https://lingjie0206.github.io/papers/NeuS/) | [Code](https://github.com/Totoro97/NeuS)
+
 <details>
 <summary><b>Papers</b></summary>
 
@@ -73,6 +59,9 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## 3DGS-based 3D Reconstruction
 
+#### 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+- **Publication:** SIGGRAPH 2023
+- **Link:** [Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [Code](https://github.com/graphdeco-inria/gaussian-splatting)
 
 
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
