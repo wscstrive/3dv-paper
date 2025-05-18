@@ -15,7 +15,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## MVS-based 3D Reconstruction
 
-#### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
+#### :star2: MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - **Publication:** ECCV 2018 
 - **Link:** [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
 
@@ -35,7 +35,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## NeRF-based 3D Reconstruction
 
-#### NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+#### :star2: NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 - **Publication:** ECCV 2020 (Oral)
 - **Link:** [Paper](https://arxiv.org/pdf/2003.08934) | [Project Page](https://www.matthewtancik.com/nerf) | [Code](https://github.com/bmild/nerf)
 
@@ -48,7 +48,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## NeuS-based 3D Reconstruction
 
-#### NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
+#### :star2: NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
 - **Publication:** NeurIPS 2021 (Spotlight)
 - **Link:** [Paper](https://arxiv.org/pdf/2106.10689) | [Project Page](https://lingjie0206.github.io/papers/NeuS/) | [Code](https://github.com/Totoro97/NeuS)
 
@@ -59,7 +59,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 ## 3DGS-based 3D Reconstruction
 
-#### 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+#### :star2: 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - **Publication:** SIGGRAPH 2023
 - **Link:** [Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [Code](https://github.com/graphdeco-inria/gaussian-splatting)
 
