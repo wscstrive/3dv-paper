@@ -36,7 +36,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 #### MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - **Publication:** ECCV 2018 
 - **Link:** [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
-- 
+
 <details>
 <summary><b>Papers</b></summary>
   
