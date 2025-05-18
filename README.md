@@ -65,7 +65,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 
 <details>
-<summary><b>Papers</b></summary>
+<summary><b> :book: Papers</b></summary>
   
 #### 2D Gaussian Splatting for Geometrically Accurate Radiance Fields 
 - **Publication:** SIGGRAPH 2024
