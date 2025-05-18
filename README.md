@@ -6,7 +6,7 @@ This repo mainly collects papers that take 3D reconstruction as their primary re
 
 
 ## Table of Contents
-- [Prelinminary](#preliminary)
+
 - [MVS-based 3D Reconstruction](#mvs-based-3d-reconstruction)
 - [NeRF-based 3D Reconstruction](#nerf-based-3d-reconstruction)
 - [NeuS-based 3D Reconstruction](#neus-based-3d-reconstruction)
