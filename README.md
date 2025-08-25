@@ -1,19 +1,14 @@
 # Awesome 3D Reconstruction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo mainly collects papers that take 3D reconstruction as their primary research objective. Works that merely possess potential reconstruction capabilities but do not focus on it are not included.
-
-> Inspired by [aweosme-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) and [Paper-List](https://github.com/YanjieZe/Paper-List?tab=readme-ov-file)
-
+This repository serves as my personal notebook, collecting papers of interest that I encounter anytime, anywhere.
 
 ## Table of Contents
 
-- [MVS-based 3D Reconstruction](#mvs-based-3d-reconstruction)
-- [NeRF-based 3D Reconstruction](#nerf-based-3d-reconstruction)
-- [NeuS-based 3D Reconstruction](#neus-based-3d-reconstruction)
-- [3DGS-based 3D Reconstruction](#3dgs-based-3d-reconstruction)
+- [Surface Reconstruction](#Surface-Reconstruction)
+- [Unclassified](#3dgs-based-3d-reconstruction)
 
 
-## MVS-based 3D Reconstruction
+## Surface Reconstruction
 
 #### :star2: MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - **Publication:** ECCV 2018 
