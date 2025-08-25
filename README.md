@@ -10,7 +10,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 ## Surface Reconstruction
 
-#### :star2: MVSNet: Depth Inference for Unstructured Multi-view Stereo  
+★ MVSNet: Depth Inference for Unstructured Multi-view Stereo  
 - **Publication:** ECCV 2018 
 - **Link:** [Paper](https://arxiv.org/pdf/1804.02505) | [Code (TensorFlow)](https://github.com/YoYo000/MVSNet) | [Code (Pytorch)](https://github.com/xy-guo/MVSNet_pytorch)
 
