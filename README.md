@@ -16,10 +16,8 @@ This repository serves as my personal notebook, collecting papers of interest th
 - 
 
 
-<details>
-<summary><b>:book: Unclassified</b></summary>
+## Unclassified
   
 - ★ "MVSNet: Depth Inference for Unstructured Multi-view Stereo." ECCV (2018). [[Paper](https://arxiv.org/pdf/1804.02505)] [[Code](https://github.com/xy-guo/MVSNet_pytorch)][[note]()]
 
-</details>
 
