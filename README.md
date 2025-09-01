@@ -15,6 +15,11 @@ This repository serves as my personal notebook, collecting papers of interest th
   - AAAI (2025). [[Paper](https://arxiv.org/pdf/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)] [[Note]()]
 - ☆ "MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions."
   - ICCV (2025). [[Paper](https://arxiv.org/pdf/2503.05182)] [[Code](https://github.com/TsingyuanChou/MGSR)]  [[Node]()]
+-  Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views
+
+-  When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering
+  - TOG (2025)
+
 -  
 
 
