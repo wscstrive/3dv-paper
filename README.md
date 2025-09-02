@@ -20,7 +20,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 -  When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering
   - TOG (2025)
 
--  
+-  Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views
 
 
 ## Unclassified
