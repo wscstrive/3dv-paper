@@ -19,6 +19,8 @@ This repository serves as my personal notebook, collecting papers of interest th
 - ☆ 3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3687952)] [[Code]()]
 - ☆ GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction. [[Paper]()] [[Code](https://github.com/jiepengwang/GausSurf)]
 - ☆ Trim 3D Gaussian Splatting for Accurate Geometry Representation.
+- ☆ SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting.
+
 
 
 ## Extended
