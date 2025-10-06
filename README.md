@@ -20,6 +20,12 @@ This repository serves as my personal notebook, collecting papers of interest th
 - ☆ GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction. [[Paper]()] [[Code](https://github.com/jiepengwang/GausSurf)]
 - ☆ Trim 3D Gaussian Splatting for Accurate Geometry Representation.
 - ☆ SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting.
+- ☆ SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction
+- ☆ Volumetric Surfaces: Representing Fuzzy Geometries with Layered Meshes
+- ☆ αSurf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity
+- ☆ A survey on surface reconstruction based on 3D Gaussian splatting
+- ☆ Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction
+- ☆ PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction
 
 
 
