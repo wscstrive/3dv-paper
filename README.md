@@ -11,9 +11,9 @@ This repository serves as my personal notebook, collecting papers of interest th
 ## Surface Reconstruction
 
 
-- ☆ __FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency__ AAAI 2025.
+- ☆ "__FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency__". AAAI 2025.
   - [[Paper](https://arxiv.org/pdf/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)] [[Note]()]  
-- ☆ "__MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions__" ICCV 2025.
+- ☆ "__MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions__". ICCV 2025.
   - [[Paper](https://arxiv.org/pdf/2503.05182)] [[Code](https://github.com/TsingyuanChou/MGSR)]  [[Note]()]  
 - ☆ Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views. CVPR 2025. [[Paper](https://arxiv.org/pdf/2504.20378)] [[Code](https://github.com/Wuuu3511/Sparse2DGS)] [[Note]()]  
 - ☆ When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering. TOG 2025. [[Paper](https://arxiv.org/pdf/2504.17545)] [[Code]()] [[Note]()]  
