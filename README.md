@@ -28,6 +28,11 @@ This repository serves as my personal notebook, collecting papers of interest th
 - ☆ A survey on surface reconstruction based on 3D Gaussian splatting
 - ☆ Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction
 - ☆ PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction
+- Multi-view Normal and Distance Guidance Gaussian Splatting for Surface Reconstruction
+- MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction
+- High-quality Surface Reconstruction using Gaussian Surfels
+- GS-2M: Gaussian Splatting forJoint Mesh Reconstruction and Material Decomposition
+- High-quality Surface Reconstruction using Gaussian Surfels
 
 
 
@@ -35,4 +40,5 @@ This repository serves as my personal notebook, collecting papers of interest th
   
 - ☆ Computational Geometry: Algorithms and Applications. book 
 - ☆ Geometric Tools for Computer Graphics. book
+- GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting. paper
 
