@@ -9,7 +9,9 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 
 ## Surface Reconstruction
-
+|       | Abbr. / Note | Title |Src. (Yr.)| Paper  Code | Idea|
+|-------|-------|-------|-------|-------|-------|
+| 内容1 | 内容2 | 内容3 |-------|-------|-------|
 
 - ☆ "__FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency__". AAAI 2025.
   - [[Paper](https://arxiv.org/pdf/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)] [[Note]()]  
