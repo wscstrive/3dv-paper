@@ -9,15 +9,56 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 
 ## Surface Reconstruction
->- __(paper name)__ _(authors)_ __(src) (year)__ [(PDF)]() [(Code)] [(Note based on Notion)] (★☆)
+>- __(paper name)__ _(authors)_ __(src) (year)__ [[Paper]()] [[Code]()] [[Note based on Notion]()] (★☆)
 
-- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[Paper](https://arxiv.org/pdf/2311.12775)] [[Code](https://github.com/Anttwo/SuGaR)] [[Note]()] (★☆☆☆☆)
+- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[Paper](https://arxiv.org/pdf/2311.12775)] [[Code](https://github.com/Anttwo/SuGaR)] [[Note]()] (Unread)
 
-- __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binin Huang et.al._  __ACM SIGGRAPH, 2025.__ [[Paper](https://arxiv.org/pdf/2403.17888)] [[Code](https://github.com/hbb1/2d-gaussian-splatting)] [[Note]()] (★★★★☆)
+- __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binin Huang et.al._  __ACM SIGGRAPH, 2024.__ [[Paper](https://arxiv.org/pdf/2403.17888)] [[Code](https://github.com/hbb1/2d-gaussian-splatting)] [[Note]()] (★★★★☆)
 
-- __GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction.__ _Mulin Yu et.al._  __NIPS__, __2024__ [(PDF)](https://arxiv.org/pdf/2403.16964) [(Code)](https://github.com/city-super/GSDF) [(Note)]() ()
+- __GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction.__ _Mulin Yu et.al._  __NeurIPS, 2024.__ [[Paper](https://arxiv.org/pdf/2403.16964)] [[Code](https://github.com/city-super/GSDF)] [[Note]()] (Unread)
 
-- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (★☆)
+- __GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views__ _Yaniv Wolf et.al._ __ECCV, 2024.__ [[Paper](https://arxiv.org/pdf/2404.01810)] [[Code](https://github.com/yanivw12/gs2mesh/tree/main)] [[Note]()] (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+
+
+
 - __FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency__. _B. Huang et.al._  __SIGGRAPH__, __2024__ [[PDF]](https://arxiv.org/pdf/2403.17888) [(Code)](https://github.com/hbb1/2d-gaussian-splatting) (★★★★☆)
   - [[Paper](https://arxiv.org/pdf/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)] [[Note]()]  
 - ☆ "__MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions__". ICCV 2025.
