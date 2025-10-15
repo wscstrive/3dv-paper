@@ -10,21 +10,21 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 ## Surface Reconstruction
 
-- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ ([`Paper`](https://arxiv.org/pdf/2311.12775)) ([Code](https://github.com/Anttwo/SuGaR)) ([Note]()) (★★★★☆)
+- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★★☆)
 
-- __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binin Huang et.al._  __ACM SIGGRAPH, 2024.__ [[Paper](https://arxiv.org/pdf/2403.17888)] [[Code](https://github.com/hbb1/2d-gaussian-splatting)] [[Note]()] (★★★★☆)
+- __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binin Huang et.al._  __ACM SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
 
-- __GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction.__ _Mulin Yu et.al._  __NeurIPS, 2024.__ [[Paper](https://arxiv.org/pdf/2403.16964)] [[Code](https://github.com/city-super/GSDF)] [[Note]()] (Unread)
+- __GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction.__ _Mulin Yu et.al._  __NeurIPS, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.16964)] [[`Code`](https://github.com/city-super/GSDF)] [[`Note`]()] (Unread)
 
-- __GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views__ _Yaniv Wolf et.al._ __ECCV, 2024.__ [[Paper](https://arxiv.org/pdf/2404.01810)] [[Code](https://github.com/yanivw12/gs2mesh/tree/main)] [[Note]()] (Unread)
+- __GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views__ _Yaniv Wolf et.al._ __ECCV, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.01810)] [[`Code`](https://github.com/yanivw12/gs2mesh/tree/main)] [[`Note`]()] (Unread)
 
-- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+- __Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes.__ _Zehao Yu et.al._ __ __SIGGRAPH Asia, 2024__ [[`Paper`](https://arxiv.org/pdf/2404.10772)] [[`Code`](https://github.com/autonomousvision/gaussian-opacity-fields)] [[`Note`]()] (Unread)
 
-- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+- __RaDe-GS: Rasterizing Depth in Gaussian Splatting.__ _Baowen Zhang et.al._ __ArXiv, 2024__ [[`Paper`](https://arxiv.org/pdf/2406.01467)] [[`Code`](https://github.com/HKUST-SAIL/RaDe-GS)] [[`Note`]()] (Unread)
 
-- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+- __.__ _._ __ __, __20__ [[`Paper`](https://arxiv.org/pdf/2404.01810)] [[`Code`](https://github.com/yanivw12/gs2mesh/tree/main)] [[`Note`]()] (Unread)
 
-- __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
+- __.__ _._ __ __, __20__ [[`Paper`](https://arxiv.org/pdf/2404.01810)] [[`Code`](https://github.com/yanivw12/gs2mesh/tree/main)] [[`Note`]()] (Unread)
 
 - __.__ _._ __ __, __20__ (PDF) (Code) (Note) (Unread)
 
