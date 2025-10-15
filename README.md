@@ -11,7 +11,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 ## Surface Reconstruction
 >- __(paper name)__ _(authors)_ __(src) (year)__ [[Paper]()] [[Code]()] [[Note based on Notion]()] (★☆)
 
-- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[Paper](https://arxiv.org/pdf/2311.12775)] [[Code](https://github.com/Anttwo/SuGaR)] [[Note]()] (Unread)
+- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ ([Paper](https://arxiv.org/pdf/2311.12775)) [[Code](https://github.com/Anttwo/SuGaR)] [[Note]()] (Unread)
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binin Huang et.al._  __ACM SIGGRAPH, 2024.__ [[Paper](https://arxiv.org/pdf/2403.17888)] [[Code](https://github.com/hbb1/2d-gaussian-splatting)] [[Note]()] (★★★★☆)
 
