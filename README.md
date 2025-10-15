@@ -71,13 +71,9 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 
 
-
-
-
-
 ## Extended
   
-- ☆ Computational Geometry: Algorithms and Applications. book 
-- ☆ Geometric Tools for Computer Graphics. book
+- Computational Geometry: Algorithms and Applications. book 
+- Geometric Tools for Computer Graphics. book
 - GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting. paper
 
