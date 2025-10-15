@@ -9,8 +9,9 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 
 ## Surface Reconstruction
+>★★★★★☆☆☆☆☆
 
-- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★★☆)
+- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
 
@@ -20,7 +21,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 - __GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views__ _Yaniv Wolf et.al._ __ECCV, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.01810)] [[`Code`](https://github.com/yanivw12/gs2mesh/tree/main)] [[`Note`]()] (Unread)
 
-- __Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes.__ _Zehao Yu et.al._ __TOG, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.10772)] [[`Code`](https://github.com/autonomousvision/gaussian-opacity-fields)] [[`Note`]()] (Unread)
+- __Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes.__ _Zehao Yu et.al._ __TOG, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.10772)] [[`Code`](https://github.com/autonomousvision/gaussian-opacity-fields)] [[`Note`]()] (★★★☆☆)
 
 - __RaDe-GS: Rasterizing Depth in Gaussian Splatting.__ _Baowen Zhang et.al._ __ArXiv, 2024.__ [[`Paper`](https://arxiv.org/pdf/2406.01467)] [[`Code`](https://github.com/HKUST-SAIL/RaDe-GS)] [[`Note`]()] (Unread)
 
@@ -28,15 +29,15 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 - __Surface Reconstruction from 3D Gaussian Splatting via Local Structural Hints.__ _Qianyi Wu et.al._ __ECCV, 2024__ [[`Paper`](https://wuqianyi.top/media/GSRec.pdf)] [[`Code`](https://github.com/QianyiWu/gsrec)] [[`Note`]()] (Unread)
 
-- __PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction.__ _Danpeng Chen et.al._ __TVCG, 2024__ [[`Paper`](https://arxiv.org/pdf/2406.06521)] [[`Code`](https://github.com/zju3dv/PGSR)] [[`Note`]()] (Unread)
+- __PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction.__ _Danpeng Chen et.al._ __TVCG, 2024__ [[`Paper`](https://arxiv.org/pdf/2406.06521)] [[`Code`](https://github.com/zju3dv/PGSR)] [[`Note`]()] (★★★☆☆)
 
 - __Trim 3D Gaussian Splatting for Accurate Geometry Representation.__ _Lue Fan, Yuxue Yang et.al._ __ArXiv, 2024.__ [[`Paper`](https://arxiv.org/pdf/2406.07499)] [[`Code`](https://github.com/YuxueYang1204/TrimGS)] [[`Note`]()] (Unread)
 
-- __MonoGSDF: Exploring Monocular Geometric Cues for Gaussian Splatting-Guided Implicit Surface Reconstruction.__ _Kunyi Li et.al._ __ArXiv, 2024.__ [[`Paper`](https://arxiv.org/pdf/2411.16898?)] [[`No Code`](https://github.com/turandai/gaussian_surfels)] [[`Note`]()] (Unread)
+- __MonoGSDF: Exploring Monocular Geometric Cues for Gaussian Splatting-Guided Implicit Surface Reconstruction.__ _Kunyi Li et.al._ __ArXiv, 2024.__ [[`Paper`](https://arxiv.org/pdf/2411.16898)] [`No Code`] [[`Note`]()] (Unread)
 
-- __SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction.__ _Mulin Yu et.al._  __NeurIPS, 2024.__ [[`Paper`](https://arxiv.org/pdf/2412.15400)] [[`No Code`]()] [[`Note`]()] (Unread)
+- __SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction.__ _Mulin Yu et.al._  __NeurIPS, 2024.__ [[`Paper`](https://arxiv.org/pdf/2412.15400)] [`No Code`] [[`Note`]()] (Unread)
 
-- __GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction.__ _Jiepeng Wang et.al._ __ArXiv, 2024.__ [[`Paper`](https://arxiv.org/pdf/2411.19454)] [[`Code`](https://github.com/jiepengwang/GausSurf)] ([`Note`]()) (★★★★☆)
+- __GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction.__ _Jiepeng Wang et.al._ __ArXiv, 2024.__ [[`Paper`](https://arxiv.org/pdf/2411.19454)] [[`Code`](https://github.com/jiepengwang/GausSurf)] ([`Note`]()) (Unread)
 
 - __αSurf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity .__ _Keyang Ye et.al._ __3DV, 2025.__ [[`Paper`](https://arxiv.org/pdf/2303.10083)] [[`Code`](https://github.com/ChikaYan/alphasurf)] [[`Note`]()] (Unread)
 
@@ -48,15 +49,15 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 - __Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views.__ _Yulun Wu, Han Huang et.al._ __AAAI, 2025 Oral.__ [[`Paper`](https://arxiv.org/pdf/2501.01196)] [[`Code`](https://github.com/yulunwu0108/Sparis/tree/master)] [[`Note`]()] (Unread)
 
-- __When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering.__ _Keyang Ye et.al._ __TOG, 2025.__ [[`Paper`](https://arxiv.org/pdf/2504.17545)] [[`No Code`]()] [[`Note`]()] (Unread)
+- __When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering.__ _Keyang Ye et.al._ __TOG, 2025.__ [[`Paper`](https://arxiv.org/pdf/2504.17545)] [`No Code`] [[`Note`]()] (Unread)
 
 - __Quadratic Gaussian Splatting: High Quality Surface Reconstruction with Second-order Geometric Primitives.__ _Ziyu Zhang, Binbin Huang et.al._  __ICCV, 2025.__ [[`Paper`](https://arxiv.org/pdf/2411.16392)] [[`Code`](https://github.com/will-zzy/QGS)] [[`Note`]()] (★★★★☆)
 
 - __MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions.__ _Qingyuan Zhou et.al._ __ICCV, 2025.__ [[`Paper`](https://arxiv.org/pdf/2503.05182)] [[`Code`](https://github.com/TsingyuanChou/MGSR)] [[`Note`]()] (Unread)
 
 - __SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting.__ _Zihui Gao, Jia-Wang Bian et.al._ __ICCV, 2025.__ [[`Paper`](https://arxiv.org/pdf/2507.15602)] [[`Code`](https://github.com/aim-uofa/SurfaceSplat)] [[`Note`]()] (Unread)
-- 
-- __PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction.__ _Yufei Han et.al._ __ICCV, 2025.__ [[`Paper`](https://arxiv.org/pdf/2509.19726?)] [[`Code`](https://github.com/PRIS-CV/PolGS)] [[`Note`]()] (Unread)
+
+- __PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction.__ _Yufei Han et.al._ __ICCV, 2025.__ [[`Paper`](https://arxiv.org/pdf/2509.19726)] [[`Code`](https://github.com/PRIS-CV/PolGS)] [[`Note`]()] (Unread)
 
 - __MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction.__ _Antoine Guédon, Diego Gomez et.al._ __TOG, 2025.__ [[`Paper`](https://arxiv.org/pdf/2506.24096)] [[`Code`](https://github.com/Anttwo/MILo)] [[`Note`]()] (Unread)
 
