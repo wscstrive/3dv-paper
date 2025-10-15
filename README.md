@@ -15,7 +15,7 @@ This repository serves as my personal notebook, collecting papers of interest th
   - 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _B. Huang et.al._  __ACM SIGGRAPH__, __2024__ [(PDF)](https://arxiv.org/pdf/2403.17888) [(Code)](https://github.com/hbb1/2d-gaussian-splatting) [(Note)]() (★★★★☆)
   - 2d gaussian primitives
-- __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _B. Huang et.al._  __ACM SIGGRAPH__, __2024__ [[PDF]](https://arxiv.org/pdf/2403.17888) [[Code]](https://github.com/hbb1/2d-gaussian-splatting) [[Note]]() (★★★★☆)
+- __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _B. Huang et.al._  __ACM SIGGRAPH__, __2024__ [[PDF]](https://arxiv.org/pdf/2403.17888) [[Code](https://github.com/hbb1/2d-gaussian-splatting)] [[Note]]() (★★★★☆)
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _B. Huang et.al._  __ACM SIGGRAPH__, __2024__ [(PDF)](https://arxiv.org/pdf/2403.17888) [(Code)](https://github.com/hbb1/2d-gaussian-splatting) [(Note)]() (★★★★☆)
 
