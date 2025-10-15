@@ -16,7 +16,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields__. _B. Huang et.al._  __AAAI__, __2025__ (pdf) (code) (★★★★☆)
   - 2d gaussian primitives 
-- __FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency__. _B. Huang et.al._  __SIGGRAPH__, __2024__ [(PDF)](https://arxiv.org/pdf/2403.17888) [(Code)](https://github.com/hbb1/2d-gaussian-splatting) (★★★★☆)
+- __FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency__. _B. Huang et.al._  __SIGGRAPH__, __2024__ [[PDF]](https://arxiv.org/pdf/2403.17888) [(Code)](https://github.com/hbb1/2d-gaussian-splatting) (★★★★☆)
   - [[Paper](https://arxiv.org/pdf/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)] [[Note]()]  
 - ☆ "__MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions__". ICCV 2025.
   - [[Paper](https://arxiv.org/pdf/2503.05182)] [[Code](https://github.com/TsingyuanChou/MGSR)]  [[Note]()]  
