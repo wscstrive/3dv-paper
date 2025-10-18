@@ -15,6 +15,7 @@ This repository serves as my personal notebook, collecting papers of interest th
   - Aligned the Gaussian to the surface via a regularization term.
   
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
+  - The common 3D Gaussian (uvw) is changed to 2D Gaussian (uv) to improve the visual consistency of multiple perspectives. However, the forced initialization of 2D Gaussian can easily ignore the contribution of 3D Gaussian with large w.
 
 - __High-quality Surface Reconstruction using Gaussian Surfels.__ _Pinxuan Dai, Jiamin Xu et.al._ __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.17774)] [[`Code`](https://github.com/turandai/gaussian_surfels)] [[`Note`]()] (Unread)
 
