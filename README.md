@@ -1,4 +1,4 @@
-# Paper Notebook
+# 3dv paper
 
 This repository serves as my personal notebook, collecting papers of interest that I encounter anytime, anywhere.
 
