@@ -22,7 +22,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 - __GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction.__ _Mulin Yu et.al._  __NeurIPS, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.16964)] [[`Code`](https://github.com/city-super/GSDF)] [[`Note`]()] (Unread)
 
-- __GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views__ _Yaniv Wolf et.al._ __ECCV, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.01810)] [[`Code`](https://github.com/yanivw12/gs2mesh/tree/main)] [[`Note`]()] (Unread)
+- __GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views.__ _Yaniv Wolf et.al._ __ECCV, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.01810)] [[`Code`](https://github.com/yanivw12/gs2mesh/tree/main)] [[`Note`]()] (Unread)
 
 - __Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes.__ _Zehao Yu et.al._ __TOG, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.10772)] [[`Code`](https://github.com/autonomousvision/gaussian-opacity-fields)] [[`Note`]()] (★★★☆☆)
 
