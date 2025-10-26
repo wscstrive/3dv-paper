@@ -71,7 +71,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 - __GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition.__ _D. M. Nguyen et.al._ __ArXiv, 2025.__ [[`Paper`](https://arxiv.org/pdf/2509.22276)] [[`Code`](https://github.com/ndming/GS-2M/tree/main)] [[`Note`]()] (Unread)
 
 
-
+- __GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes.__ _Gaochao Song, Chong Cheng et.al._ __NeurIPS, 2025.__ [[`Paper`](https://arxiv.org/pdf/2411.01853)] [[`Code`](https://github.com/3DAgentWorld/GVKF/tree/main)] [[`Note`]()]
 
 
 ## Extended
