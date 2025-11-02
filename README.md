@@ -79,4 +79,4 @@ This repository serves as my personal notebook, collecting papers of interest th
 - Computational Geometry: Algorithms and Applications. book 
 - Geometric Tools for Computer Graphics. book
 - GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting. paper
-
+- Triangle Splatting for Real-Time Radiance Field Rendering
