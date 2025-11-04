@@ -14,7 +14,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
   - By decomposing each 3D Gaussian via SVD into three orthogonal directions, the component along the normal direction is minimized to enforce alignment with the target surface.
 
-    > <img width="707" height="295" alt="image" src="https://github.com/user-attachments/assets/a750f72f-da29-4a96-b677-2cbbfd108c02" />
+    > <img width="696" height="306" alt="image" src="https://github.com/user-attachments/assets/456d7390-8bd9-466c-ab4a-ddd5a8c75ef7" />
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
   - The common 3D Gaussian (uvw) is changed to 2D Gaussian (uv) to improve the visual consistency of multiple perspectives. However, the forced initialization of 2D Gaussian can easily ignore the contribution of 3D Gaussian with large w.
