@@ -1,6 +1,6 @@
 ## Sugar:
 
-\begin{aligned}
+> \begin{aligned}
 \because\quad
 \mathcal{G}_g^{3D} 
 &= \exp\!\left(-\frac{1}{2}(p-\mu_g)^T\Sigma^{-1}(p-\mu_g)\right) \\
