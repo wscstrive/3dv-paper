@@ -14,24 +14,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
   - By decomposing each 3D Gaussian via SVD into three orthogonal directions, the component along the normal direction is minimized to enforce alignment with the target surface.
 
-  > <img width="707" height="295" alt="image" src="https://github.com/user-attachments/assets/a750f72f-da29-4a96-b677-2cbbfd108c02" />
-
-
-
-
-$$
-\begin{aligned}
-\mathcal{G}_g^{3D} 
-&= \exp\!\left(-\frac{1}{2}(p-\mu_g)^T\Sigma^{-1}(p-\mu_g)\right) \\
-&= \exp\!\left(-\frac{1}{2}\left(
-\frac{1}{s_g^2}\langle p-\mu_g, u_g \rangle +
-\frac{1}{s_g^2}\langle p-\mu_g, v_g \rangle +
-\frac{1}{s_g^2}\langle p-\mu_g, n_g \rangle^2
-\right)\right) \\
-&\approx \exp\!\left(-\frac{1}{2s_g^2}\langle p-\mu_g, n_g \rangle\right^2) \\
-&\approx \exp\!\left(-\frac{1}{2s_g^2} \{f(p) \to  \overline{f}(p)\}\right) 
-\end{aligned}
-$$
+    > <img width="707" height="295" alt="image" src="https://github.com/user-attachments/assets/a750f72f-da29-4a96-b677-2cbbfd108c02" />
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
   - The common 3D Gaussian (uvw) is changed to 2D Gaussian (uv) to improve the visual consistency of multiple perspectives. However, the forced initialization of 2D Gaussian can easily ignore the contribution of 3D Gaussian with large w.
