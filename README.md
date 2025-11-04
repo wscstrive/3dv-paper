@@ -14,6 +14,22 @@ This repository serves as my personal notebook, collecting papers of interest th
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
   - By decomposing each 3D Gaussian via SVD into three orthogonal directions, the component along the normal direction is minimized to enforce alignment with the target surface.
 
+  ->$$
+\begin{aligned}
+\mathcal{G}_g^{3D} 
+&= \exp\!\left(-\frac{1}{2}(p-\mu_g)^T\Sigma^{-1}(p-\mu_g)\right) \\
+&= \exp\!\left(-\frac{1}{2}\left(
+\frac{1}{s_g^2}\langle p-\mu_g, u_g \rangle^2 +
+\frac{1}{s_g^2}\langle p-\mu_g, v_g \rangle^2 +
+\frac{1}{s_g^2}\langle p-\mu_g, n_g \rangle^2
+\right)\right) \\
+\mathcal{G}_g^{1D} 
+&\approx \exp\!\left(-\frac{1}{2s_g^2}\langle p-\mu_g, n_g \rangle^2 \right) \\
+&= \exp\!\left(-\frac{1}{2s_g^2} f(p)\right)
+\end{aligned}
+$$
+
+
 $$
 \begin{aligned}
 \mathcal{G}_g^{3D} 
@@ -21,10 +37,10 @@ $$
 &= \exp\!\left(-\frac{1}{2}\left(
 \frac{1}{s_g^2}\langle p-\mu_g, u_g \rangle +
 \frac{1}{s_g^2}\langle p-\mu_g, v_g \rangle +
-\frac{1}{s_g^2}\langle p-\mu_g, n_g \rangle
+\frac{1}{s_g^2}\langle p-\mu_g, n_g \rangle^2
 \right)\right) \\
-&\approx \exp\!\left(-\frac{1}{2s_g^2}\langle p-\mu_g, n_g \rangle\right) \\
-&= \exp\!\left(-\frac{1}{2s_g^2} f(p)\right)
+&\approx \exp\!\left(-\frac{1}{2s_g^2}\langle p-\mu_g, n_g \rangle\right^2) \\
+&\approx \exp\!\left(-\frac{1}{2s_g^2} \{f(p) \to  \overline{f}(p)\}\right) 
 \end{aligned}
 $$
 
