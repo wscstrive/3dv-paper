@@ -14,7 +14,7 @@ This repository serves as my personal notebook, collecting papers of interest th
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
   - By decomposing each 3D Gaussian via SVD into three orthogonal directions, the component along the normal direction is minimized to enforce alignment with the target surface.
 
-> <img width="707" height="295" alt="image" src="https://github.com/user-attachments/assets/a750f72f-da29-4a96-b677-2cbbfd108c02" />
+  > <img width="707" height="295" alt="image" src="https://github.com/user-attachments/assets/a750f72f-da29-4a96-b677-2cbbfd108c02" />
 
 
 
