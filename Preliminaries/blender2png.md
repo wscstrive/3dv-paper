@@ -1,7 +1,8 @@
 import bpy, math
 
 # ========= 1) 相机参数 =========
-cam_loc = (
+
+> cam_loc = (
 -2.247744417912683, -0.25676986688509823, 3.3975459057555306
 )
 cam_rot_deg = (
@@ -91,4 +92,49 @@ L.use_shadow = use_shadow
 if hasattr(L, "use_normalized") and light_type in {"AREA", "SPOT"}:
     L.use_normalized = normalize
 
-print("[OK] Camera & Light updated without errors.]")
+> print("[OK] Camera & Light updated without errors.]")
+>
+import json
+from scipy.spatial.transform import Rotation as R
+
+# ✅ 你提供的旋转转欧拉函数
+def rot_2_euler_in_blender(rotation_matrix):
+    r = R.from_matrix(rotation_matrix)
+    eu = r.as_euler('xyz', degrees=True)
+    eu[0] = eu[0] + 180  # X 加 180°
+    return eu
+
+
+def print_all_cameras(json_path):
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    def process_obj(obj):
+        if isinstance(obj, dict) and "rotation" in obj and "id" in obj:
+            print("\n=======================================")
+            print(f"📌 Camera id: {obj['id']}")
+            print(json.dumps(obj, indent=4, ensure_ascii=False))
+
+            rot = obj["rotation"]
+            euler = rot_2_euler_in_blender(rot)
+
+            print("\n🎯 Euler XYZ (Degrees)：")
+            print(f"X = {euler[0]}")
+            print(f"Y = {euler[1]}")
+            print(f"Z = {euler[2]}")
+            print("=======================================\n")
+
+        if isinstance(obj, dict):
+            for v in obj.values():
+                process_obj(v)
+        elif isinstance(obj, list):
+            for v in obj:
+                process_obj(v)
+
+    process_obj(data)
+
+
+if __name__ == "__main__":
+    json_file = "/media/wangsc/T7/outputs/2dgs/outputs/dtu/scan105/cameras.json"
+    print_all_cameras(json_file)
+
