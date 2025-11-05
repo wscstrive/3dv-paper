@@ -1,8 +1,10 @@
+
+```
 import bpy, math
 
 # ========= 1) 相机参数 =========
 
-> cam_loc = (
+cam_loc = (
 -2.247744417912683, -0.25676986688509823, 3.3975459057555306
 )
 cam_rot_deg = (
@@ -92,8 +94,9 @@ L.use_shadow = use_shadow
 if hasattr(L, "use_normalized") and light_type in {"AREA", "SPOT"}:
     L.use_normalized = normalize
 
-> print("[OK] Camera & Light updated without errors.]")
->
+print("[OK] Camera & Light updated without errors.]")
+```
+
 import json
 from scipy.spatial.transform import Rotation as R
 
