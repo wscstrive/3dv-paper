@@ -1,3 +1,4 @@
+## 在blender的scripts中渲染图像 
 
 ```
 import bpy, math
@@ -97,6 +98,8 @@ if hasattr(L, "use_normalized") and light_type in {"AREA", "SPOT"}:
 print("[OK] Camera & Light updated without errors.]")
 ```
 
+## 从json文件中提取信息，并将旋转矩阵转换成blender的欧拉角
+```
 import json
 from scipy.spatial.transform import Rotation as R
 
@@ -140,4 +143,4 @@ def print_all_cameras(json_path):
 if __name__ == "__main__":
     json_file = "/media/wangsc/T7/outputs/2dgs/outputs/dtu/scan105/cameras.json"
     print_all_cameras(json_file)
-
+```
