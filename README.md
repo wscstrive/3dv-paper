@@ -15,27 +15,7 @@ This repository serves as my personal notebook, collecting papers of interest th
   - For each pixel, all Gaussians covering it are considered, and the one with the highest contribution (or the one whose center is closest to the pixel) is selected.
     > __Question:__ _Does the regularization process select the Gaussian with the highest contribution to reduce its distance from the pixel, or the one closest to the pixel to enhance its contribution?_
   - The 3D Gaussians are flattened into 2D Gaussians to better approximate the scene surface.
-  
-
-
-$$
-\begin{aligned}
-\therefore \mathcal{G}^{3D}_{g*} 
-&= \exp\left(-\frac{1}{2}(p - \mu_{g*})^{\top}\Sigma^{-1}(p - \mu_{g*})\right) \\
-&= \exp\left(-\frac{1}{2}\left(\frac{1}{s_{g*}^2}\langle p - \mu_{g*}, u_{g*} \rangle^2 
-+ \frac{1}{s_{g*}^2}\langle p - \mu_{g*}, v_{g*} \rangle^2 
-+ \frac{1}{s_{g*}^2}\langle p - \mu_{g*}, n_{g*} \rangle^2\right)\right) \\
-\\
-\mathcal{G}^{{n}}_{g*} 
-&\approx \exp\left(-\frac{1}{2s_{g*}^2}\langle p - \mu_{g*}, n_{g*} \rangle^2\right) \\
-&= \exp\left(-\frac{1}{2s_{g*}^2}f(p)^2\right) \\
-\\
-\therefore f(p) 
-&= \pm s_{g*} \sqrt{-2 \log(\mathcal{G}^{n}_{{g*}})} \;\; \rightarrow \text{Pixel}
-\end{aligned}
-$$
-
-
+    > <img width="747" height="360" alt="image" src="https://github.com/user-attachments/assets/6b1df275-36ca-4a9a-874d-c7e79b7039e5" />
 
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
