@@ -12,26 +12,23 @@ This repository serves as my personal notebook, collecting papers of interest th
 >★★★★★☆☆☆☆☆
 
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
-  <details>
-  <summary>Notes</summary>
 
+  <details>
+  <summary> Notes </summary>
   - For __constructing the SDF function__, all overlapping Gaussians on each pixel are considered, and the one with the __highest contribution__ (or whose center is closest to the pixel) is selected.
     > __Question:__ _Does the regularization process select the Gaussian with the highest contribution to reduce its distance from the pixel, or the one closest to the pixel to enhance its contribution?_
   - For aligning Gaussians with the surface, the 3D Gaussians are flattened into 2D Gaussians to better approximate the scene surface by __3-scales eigenvalue decomposition__.
-    > <img width="749" height="362" alt="image" src="https://github.com/user-attachments/assets/f8db32aa-11e4-4e7b-a4b6-c73edc051c1b" />
-
+    > <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/f8db32aa-11e4-4e7b-a4b6-c73edc051c1b" />
   </details>
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
+
   <details>
-  <summary>Notes</summary>
-    
-  - For __multi-view consistency__, the 3D Gaussian volumes are flattened into 2D Gaussian disks by __construct 2d gaussian directly__.
-    
+  <summary>Notes</summary> 
+  - For __multi-view consistency__, the 3D Gaussian volumes are flattened into 2D Gaussian disks by __construct 2d gaussian directly__. 
     ```
     const glm::vec2* scales
     ```
-  
   - For mitigating the loss introduced by __the affine approximation of perspective projection__, __the homogeneous transformation__ is employed to project local Gaussian coordinates into pixel coordinates. 
     ``` 
     // Approximation:
@@ -40,10 +37,8 @@ This repository serves as my personal notebook, collecting papers of interest th
     // Homogeneous:
     T = glm::transpose(splat2world) * world2ndc * ndc2pix; 
     ```
-    
   - For reducing instability caused by determinant explosions during __the inverse transformation of pixel points into the uv-space for 2D Gaussian computation__, the method __replaces point-based transformations with plane-based transformations__.
     > A point $p$ is transformed by $p'=M\cdot p$ , while a plane $h$ is transformed by $h'=M^{-T}\cdot h$
-
   <details>
 
 - __High-quality Surface Reconstruction using Gaussian Surfels.__ _Pinxuan Dai, Jiamin Xu et.al._ __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.17774)] [[`Code`](https://github.com/turandai/gaussian_surfels)] [[`Note`]()] (Unread)
