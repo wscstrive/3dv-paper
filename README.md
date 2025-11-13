@@ -32,7 +32,7 @@ This repository serves as my personal notebook, collecting papers of interest th
     ```
     const glm::vec2* scales
     ```
-  - For mitigating errors introduced by __the affine approximation of perspective projection__, __the homogeneous transformation__ is employed to project local Gaussian coordinates into pixel coordinates. 
+  - For mitigating errors introduced by __the affine approximation__ of perspective projection, __the homogeneous transformation__ is employed to project local Gaussian coordinates into pixel coordinates. 
     ``` 
     // Approximation:
     glm::mat3 cov3d = glm::transpose(S * R) * (S * R);
