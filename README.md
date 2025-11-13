@@ -12,9 +12,9 @@ This repository serves as my personal notebook, collecting papers of interest th
 >★★★★★☆☆☆☆☆
 
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
-  - For each pixel, all Gaussians covering it are considered, and the one with the highest contribution (or the one whose center is closest to the pixel) is selected.
+  - For constructing the SDF function, all overlapping Gaussians on each pixel are considered, and the one with the highest contribution (or whose center is closest to the pixel) is selected.
     > __Question:__ _Does the regularization process select the Gaussian with the highest contribution to reduce its distance from the pixel, or the one closest to the pixel to enhance its contribution?_
-  - The 3D Gaussians are flattened into 2D Gaussians to better approximate the scene surface.
+  - For aligning Gaussians with the surface, the 3D Gaussians are flattened into 2D Gaussians to better approximate the scene surface.
 
     > $$
     > \begin{aligned} 
@@ -27,7 +27,10 @@ This repository serves as my personal notebook, collecting papers of interest th
 
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
-  - Using 2D Gaussian disks instead of 3D Gaussian volumes helps keep depth consistent from different views, resulting in better surface reconstruction.
+  - For multi-view consistency, the 3D Gaussian volumes are flattened into 2D Gaussian disks.
+  - For mitigating the loss introduced by the affine approximation of perspective projection, a homogeneous transformation is directly employed to project local Gaussian coordinates into pixel coordinates.
+  - For reducing instability caused by determinant explosions during the inverse transformation of pixel points into the uv-space for 2D Gaussian computation, the method replaces point-based transformations with plane-based transformations.
+    > A point is transformed by $p'=M\cdot p$ , while a plane is transformed by $h'=M^{-T}\cdot h$
   
   - <img width="875" height="203" alt="image" src="https://github.com/user-attachments/assets/2b68fd53-c930-4588-8ca0-0bc5768c80ef" />
 
