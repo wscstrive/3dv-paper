@@ -1,12 +1,13 @@
 # 3dv paper
 
-This repository serves as my personal notebook, collecting papers of interest that I encounter anytime, anywhere.
+This repository serves as my personal notebook, collecting papers/books/courses of interest that I encounter anytime, anywhere.
 
 ## Table of Contents
 
 - [Surface Reconstruction](#Surface-Reconstruction)
 - [Extended](#Extended)
 
+# Papers
 
 ## Surface Reconstruction
 >★★★★★☆☆☆☆☆
@@ -101,9 +102,10 @@ This repository serves as my personal notebook, collecting papers of interest th
 - __GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes.__ _Gaochao Song, Chong Cheng et.al._ __NeurIPS, 2025.__ [[`Paper`](https://arxiv.org/pdf/2411.01853)] [[`Code`](https://github.com/3DAgentWorld/GVKF/tree/main)] [[`Note`]()]
 
 
-## Extended
-  
-- Computational Geometry: Algorithms and Applications. book 
-- Geometric Tools for Computer Graphics. book
-- GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting. paper
-- Triangle Splatting for Real-Time Radiance Field Rendering
+# Books
+
+- __Fundamentals of Computer Graphics, 5th Edition.__ _Steve Marschner, Peter Shirley._ __2021.__ [[`Book`](https://drive.google.com/file/d/1ChDgEA433GUs5rrW9fluiWHn6VCoj4o_/view?usp=drive_link)]
+
+# Sources
+
+- __GAMES101: 现代计算机图形学入门.__ _Lingqi Lin et.al._ [[`Video`](https://www.bilibili.com/video/BV1X7411F744/)]
