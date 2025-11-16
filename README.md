@@ -1,4 +1,4 @@
-# 3dv Tracing
+# Introduction
 
 This repository serves as my personal notebook, collecting papers/books/courses of interest that I encounter anytime, anywhere.
 
