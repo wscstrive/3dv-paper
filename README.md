@@ -1,4 +1,4 @@
-# 3dv paper
+# 3dv Tracing
 
 This repository serves as my personal notebook, collecting papers/books/courses of interest that I encounter anytime, anywhere.
 
@@ -7,9 +7,9 @@ This repository serves as my personal notebook, collecting papers/books/courses 
 - [Surface Reconstruction](#Surface-Reconstruction)
 - [Extended](#Extended)
 
-# Papers
+## Papers
 
-## Surface Reconstruction
+### Surface Reconstruction
 >★★★★★☆☆☆☆☆
 
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
@@ -102,10 +102,10 @@ This repository serves as my personal notebook, collecting papers/books/courses 
 - __GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes.__ _Gaochao Song, Chong Cheng et.al._ __NeurIPS, 2025.__ [[`Paper`](https://arxiv.org/pdf/2411.01853)] [[`Code`](https://github.com/3DAgentWorld/GVKF/tree/main)] [[`Note`]()]
 
 
-# Books
+## Books
 
 - __Fundamentals of Computer Graphics, 5th Edition.__ _Steve Marschner, Peter Shirley._ __2021.__ [[`Book`](https://drive.google.com/file/d/1ChDgEA433GUs5rrW9fluiWHn6VCoj4o_/view?usp=drive_link)]
 
-# Sources
+## Sources
 
 - __GAMES101: 现代计算机图形学入门.__ _Lingqi Lin et.al._ [[`Video`](https://www.bilibili.com/video/BV1X7411F744/)]
