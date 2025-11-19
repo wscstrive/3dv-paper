@@ -12,20 +12,20 @@ This repository serves as my personal notebook, collecting papers/books/courses 
 ### Surface Reconstruction
 >★★★★★☆☆☆☆☆
 
-- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★★☆☆)
+- __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] ([`Note`]()) (★★☆☆☆)(No reading code)
 
+  - To avoid interference from overlapping Gaussians, only the Gaussian (closest to the point $p$) is used, and the SDF is formed by __shrinking the distance along its smallest scale direction__.
   <details>
   <summary> Notes </summary>  
     
-  - For __constructing the SDF function__, all overlapping Gaussians on each pixel are considered, and the one with the __highest contribution__ (or whose center is closest to the pixel) is selected.  
-    > __Question:__ _Does the regularization process select the Gaussian with the highest contribution to reduce its distance from the pixel, or the one closest to the pixel to enhance its contribution?_  
-  - For aligning Gaussians with the surface, the 3D Gaussians are flattened into 2D Gaussians to better approximate the scene surface by __3-scales eigenvalue decomposition__.  
+    - The essence of an SDF is simply that the function approaches zero on the surface, so I do not understand why the authors regularize two SDF functions against each other.
     > <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/f8db32aa-11e4-4e7b-a4b6-c73edc051c1b" />
     
   </details>
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] [[`Note`]()] (★★★★☆)
 
+  - __Initialize 2D Gaussian primitives__ to ensure multi-view consistency, and use __homogeneous transformations__ to remove the errors introduced by affine projection approximations.
   <details>
   <summary>Notes</summary> 
     
@@ -56,7 +56,9 @@ This repository serves as my personal notebook, collecting papers/books/courses 
 
 - __RaDe-GS: Rasterizing Depth in Gaussian Splatting.__ _Baowen Zhang et.al._ __ArXiv, 2024.__ [[`Paper`](https://arxiv.org/pdf/2406.01467)] [[`Code`](https://github.com/HKUST-SAIL/RaDe-GS)] [[`Note`]()] (Unread)
 
-- __3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting.__ _XIAOYANG LYU et.al._ __TOG, 2024__ [[`Paper`](https://arxiv.org/pdf/2404.00409)] [`No Code`] [[`Note`]()] (Unread)
+- __3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting.__ _XIAOYANG LYU et.al._ __TOG, 2024__ [[`Paper`](https://arxiv.org/pdf/2404.00409)] [`No Code`] [[`Note`]()] (★☆☆☆☆)
+  - 123
+    - 123
 
 - __Surface Reconstruction from 3D Gaussian Splatting via Local Structural Hints.__ _Qianyi Wu et.al._ __ECCV, 2024__ [[`Paper`](https://wuqianyi.top/media/GSRec.pdf)] [[`Code`](https://github.com/QianyiWu/gsrec)] [[`Note`]()] (Unread)
 
