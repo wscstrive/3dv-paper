@@ -46,7 +46,7 @@ This repository serves as my personal notebook, collecting papers/books/courses 
     
     <details>
 
-- __High-quality Surface Reconstruction using Gaussian Surfels.__ _Pinxuan Dai, Jiamin Xu et.al._ __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.17774)] [[`Code`](https://github.com/turandai/gaussian_surfels)] [[`Note`]()] (Unread)
+- __High-quality Surface Reconstruction using Gaussian Surfels.__ _Pinxuan Dai, Jiamin Xu et.al._ __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.17774)] [[`Code`](https://github.com/turandai/gaussian_surfels)] (★★★★☆)
   - Introduces Gaussian surfels (with scale.z = 0) and __adaptively adjusts pixel-wise depths__ when the surfels align with slanted surfaces.
     <details>
     <summary>Notes</summary> 
