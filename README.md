@@ -14,14 +14,8 @@ This repository serves as my personal notebook, collecting papers/books/courses 
 
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] (★★☆☆☆)(No reading code)
 
-  - To avoid interference from overlapping Gaussians, only the Gaussian (closest to the point $p$) is used, and the SDF is formed by __shrinking the distance along its smallest scale direction__.
-    <details>
-    <summary> Notes </summary>  
-    
-      - The essence of an SDF is simply that the function approaches zero on the surface, so I do not understand why the authors regularize two SDF functions against each other.
-      > <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/f8db32aa-11e4-4e7b-a4b6-c73edc051c1b" />
-    
-    </details>
+  - To reduce interference from overlapping Gaussians, the Gaussian nearest to the point $p$ is selected. \
+    The SDF is then defined by shortening the distance along its smallest scale axis, and this estimated SDF is regularized toward the ground-truth SDF to achieve surface alignment.
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] (★★★★☆)
 
