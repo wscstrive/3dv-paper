@@ -1,15 +1,9 @@
 # Introduction
 
-This repository serves as my personal notebook, collecting papers/books/courses of interest that I encounter anytime, anywhere.
+This repository serves as my personal notebook, collecting papers on surface reconstruction that I encounter anytime, anywhere.
+> This repo. just roughly records the contributions of each paper. My notes are mainly recorded on Notion. Link: https://www.notion.so/Notes-2b13db23b7038076a17bef7408d980e7?source=copy_link
 
-## Table of Contents
-
-- [Surface Reconstruction](#Surface-Reconstruction)
-- [Extended](#Extended)
-
-## Papers
-
-### Surface Reconstruction
+## Paper lists
 >★★★★★☆☆☆☆☆
 
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] (★★☆☆☆)(No reading code)
@@ -20,25 +14,6 @@ This repository serves as my personal notebook, collecting papers/books/courses 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] (★★★★☆)
 
   - __Initialize 2D Gaussian primitives__ to ensure multi-view consistency, and use __homogeneous transformations__ to remove the errors introduced by affine projection approximations.
-    <details>
-    <summary>Notes</summary> 
-    
-    - For __multi-view consistency__, the 3D Gaussian volumes are flattened into 2D Gaussian disks by __construct 2d gaussian directly__. 
-      ```
-      const glm::vec2* scales
-      ```
-    - For mitigating errors introduced by __the affine approximation__ of perspective projection, __the homogeneous transformation__ is employed to project local Gaussian coordinates into pixel coordinates. 
-      ``` 
-      // Approximation:
-      glm::mat3 cov3d = glm::transpose(S * R) * (S * R);
-      glm::mat3 cov2d = glm::transpose(W * J) * glm::transpose(cov3d) * (W * J);
-      // Homogeneous:
-      T = glm::transpose(splat2world) * world2ndc * ndc2pix; 
-      ```
-    - For reducing instability caused by determinant explosions during __the inverse transformation of pixel points into the uv-space for 2D Gaussian computation__, the method __replaces point-based transformations with plane-based transformations__.
-      > A point $p$ is transformed by $p'=M\cdot p$ , while a plane $h$ is transformed by $h'=M^{-T}\cdot h$
-    
-    <details>
 
 - __High-quality Surface Reconstruction using Gaussian Surfels.__ _Pinxuan Dai, Jiamin Xu et.al._ __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.17774)] [[`Code`](https://github.com/turandai/gaussian_surfels)] (★★★★☆)
   - Introduces Gaussian surfels (with scale.z = 0) and __adaptively adjusts pixel-wise depths__ when the surfels align with slanted surfaces.
