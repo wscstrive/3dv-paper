@@ -1,7 +1,7 @@
 # Introduction
 
 This repository serves as my personal notebook, collecting papers on surface reconstruction that I encounter anytime, anywhere.
-> This repo. just roughly records the contributions of each paper. My notes are mainly recorded on Notion. Link: https://www.notion.so/Notes-2b13db23b7038076a17bef7408d980e7?source=copy_link
+> This repo. just roughly records the contributions of each paper. My notes are mainly recorded on Notion. [[`Link`](https://www.notion.so/Notes-2b13db23b7038076a17bef7408d980e7?source=copy_link)] 
 
 ## Paper lists
 >★★★★★☆☆☆☆☆
