@@ -11,20 +11,14 @@ This repository serves as my personal notebook, collecting papers on surface rec
 
 
 - __SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.__ _Antoine Guédon, Vincent Lepetit._ __CVPR, 2024.__ [[`Paper`](https://arxiv.org/pdf/2311.12775)] [[`Code`](https://github.com/Anttwo/SuGaR)] (★★☆☆☆)(No reading code)
-
   - To reduce interference from overlapping Gaussians, the Gaussian nearest to the point $p$ is selected. \
     The SDF is then defined by shortening the distance along its smallest scale axis, and this estimated SDF is regularized toward the ground-truth SDF to achieve surface alignment.
 
 - __2D Gaussian Splatting for Geometrically Accurate Radiance Fields.__ _Binbin Huang et.al._  __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.17888)] [[`Code`](https://github.com/hbb1/2d-gaussian-splatting)] (★★★★☆)
-
   - __Initialize 2D Gaussian primitives__ to ensure multi-view consistency, and use __homogeneous transformations__ to remove the errors introduced by affine projection approximations.
 
 - __High-quality Surface Reconstruction using Gaussian Surfels.__ _Pinxuan Dai, Jiamin Xu et.al._ __SIGGRAPH, 2024.__ [[`Paper`](https://arxiv.org/pdf/2404.17774)] [[`Code`](https://github.com/turandai/gaussian_surfels)] (★★★★☆)
   - Introduces Gaussian surfels (with scale.z = 0) and __adaptively adjusts pixel-wise depths__ when the surfels align with slanted surfaces.
-    <details>
-    <summary>Notes</summary> 
-    
-    <details>
   
 - __GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction.__ _Mulin Yu et.al._  __NeurIPS, 2024.__ [[`Paper`](https://arxiv.org/pdf/2403.16964)] [[`Code`](https://github.com/city-super/GSDF)] [[`Note`]()] (Unread)
 
